@@ -6,6 +6,7 @@ from sklearn.model_selection import train_test_split
 from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Dense, Activation
 from tensorflow.keras.utils import to_categorical
+pip install matplotlib
 import streamlit as st
 from PIL import Image
 import cv2
